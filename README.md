@@ -4,3 +4,4 @@
 # (3) URLs which are Crawed or being crawed will be shown on the ipython console
 # (4) Results will be saved into the file "output.txt"
 #  U'd better use Anaconda python environment
+#  Make sure u have the broswer Firefox or Chrome
